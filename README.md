@@ -46,3 +46,10 @@ tests/
 ## License
 
 MIT. See `LICENSE`.
+
+<!-- sen-publish:links -->
+## Links
+
+- 🌐 Demo: https://sen.ltd/portfolio/svg-path-editor/
+- 📝 dev.to: https://dev.to/sendotltd/i-finally-understand-the-svg-d-attribute-because-i-built-an-editor-for-it-5b74
+<!-- /sen-publish:links -->
