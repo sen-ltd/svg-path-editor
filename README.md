@@ -51,5 +51,6 @@ MIT. See `LICENSE`.
 ## Links
 
 - 🌐 Demo: https://sen.ltd/portfolio/svg-path-editor/
+- 📝 記事: https://qiita.com/sen-ltd/items/d5cf98208d0fe754ee4f
 - 📝 dev.to: https://dev.to/sendotltd/i-finally-understand-the-svg-d-attribute-because-i-built-an-editor-for-it-5b74
 <!-- /sen-publish:links -->
